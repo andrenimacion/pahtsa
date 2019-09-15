@@ -25,9 +25,7 @@
             <a href="cerrar_sesion.php" style="margin-left:15px; font-size:10pt;" id="cerSes" class="workMen">Cerrar Sesi&oacuten</a>
         </div>
     </div>
-    <section class="container-fluid">
     <?php require_once('./modules_php/banner.php'); ?>
-    </section>
     <section id="menu">
         <?php require_once('./modules_php/menu.php'); ?>
     </section>

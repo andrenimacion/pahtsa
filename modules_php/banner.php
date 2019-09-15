@@ -4,10 +4,10 @@
         <img src="./img/tienda1.jpg" class="d-block w-100" alt="...">
     </div>
     <div class="carousel-item">
-      <img src="" class="d-block w-100" alt="...">
+      <img src="./img/tienda2.jpg" class="d-block w-100" alt="...">
     </div>
     <div class="carousel-item">
-      <img src="" class="d-block w-100" alt="...">
+      <img src="./img/compradoras.jpg" class="d-block w-100" alt="...">
     </div>
   </div>
 </div>
