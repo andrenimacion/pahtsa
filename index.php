@@ -17,8 +17,8 @@
    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 </head>
 <body>
-    <div class="container-fluid p-3" style="background-color: steelblue; color: whitesmoke; ">
-        <?php echo '¡Hola '.$usuario; ?>
+    <div class="container-fluid p-3" id="menUp"> 
+        <?php echo '¡Hola! '.'<strong>'.$usuario.'</strong>'; ?>
         <div id="supraMenu" class="container-fluid p-4"><a href="user_php/entrar.php" id="inSes">Iniciar Sesi&oacuten</a>|
             <a href="#" id="Reg" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal">Registrarse</a>
             <a href="cerrar_sesion.php" style="margin-left:15px; font-size:10pt;" id="cerSes" >Cerrar Sesi&oacuten</a>

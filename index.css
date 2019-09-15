@@ -91,3 +91,9 @@ align-items: center;
     
     background-color: steelblue;
 }
+
+#menUp{
+    display: flex;
+    justify-content: flex-start;
+    
+}
