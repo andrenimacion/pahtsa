@@ -21,7 +21,7 @@
         </div>
       </div>
       <div class="carousel-item">
-        <img src="comercio.jpg" class="d-block w-100" alt="...">
+        <img src="./img/comercio.jpg" class="d-block w-100" alt="...">
         <div class="carousel-caption d-none d-md-block">
           <h5>Comercio seguro</h5>
           <p>Tus compras siempre estarán seguras.</p>
