@@ -1,6 +1,4 @@
 
-<div id="supraMenu" class="container-fluid p-4"><a href="user_php/entrar.php" style="margin-right:15px; color:gray; font-size:10pt;" id="inSes">Iniciar Sesi&oacuten</a>|<a href="#" id="Reg" class="btn btn-primary" style="margin-left:15px; font-size:10pt;" data-toggle="modal" data-target="#exampleModal">Registrarse</a>
-<a href="cerrar_sesion.php" style="margin-left:15px; font-size:10pt;" id="cerSes" >Cerrar Sesi&oacuten</a></div>
 <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
   <!--<a class="navbar-brand" href="#"><img width="300px" height="auto" src="./img/logo-blanco.png"></a>-->
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
