@@ -1,7 +1,8 @@
+
 <div id="supraMenu" class="container-fluid p-4"><a href="user_php/entrar.php" style="margin-right:15px; color:gray; font-size:10pt;" id="inSes">Iniciar Sesi&oacuten</a>|<a href="#" id="Reg" class="btn btn-primary" style="margin-left:15px; font-size:10pt;" data-toggle="modal" data-target="#exampleModal">Registrarse</a>
 <a href="cerrar_sesion.php" style="margin-left:15px; font-size:10pt;" id="cerSes" >Cerrar Sesi&oacuten</a></div>
 <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
-  <a class="navbar-brand" href="#"><img width="300px" height="auto" src="./img/logo-blanco.png"></a>
+  <!--<a class="navbar-brand" href="#"><img width="300px" height="auto" src="./img/logo-blanco.png"></a>-->
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
@@ -19,6 +20,7 @@
     </ul>
   </div>
 </nav>
+
 <!--MODAL HIDE-->
 <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
   <div class="modal-dialog" role="document">
@@ -35,7 +37,6 @@
     </div>
   </div>
 </div>
-
 
 <div class="modal fade" id="exampleModal2" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
   <div class="modal-dialog" role="document">
@@ -54,10 +55,10 @@
 </div>
 
 <script>
+    //Estoy tomando las variables de este modulo
     const supMenuLinks = {
         inSes:document.getElementById('inSes'),
         Reg:document.getElementById('Reg'),
         cerSes:document.getElementById('cerSes')
     }
-   
 </script>
