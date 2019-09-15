@@ -18,12 +18,15 @@
 </head>
 <body>
     <div class="container-fluid p-3" id="menUp">
-        <?php echo '¡Hola! '.'<strong>'.$usuario.'</strong>'; ?>
+        <?php echo '¡Hola! '.' '.'<strong style="color:white;">'.$usuario.'</strong>'; ?>
         <div id="supraMenu" class="container-fluid p-4"><a href="user_php/entrar.php" id="inSes" class="workMen">Iniciar Sesi&oacuten</a>|
             <a href="#" id="Reg" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal" class="workMen">Registrarse</a>
             <a href="cerrar_sesion.php" style="margin-left:15px; font-size:10pt;" id="cerSes" class="workMen">Cerrar Sesi&oacuten</a>
         </div>
     </div>
+    <section class="container-fluid">
+    <?php require_once('./modules_php/banner.php'); ?>
+    </section>
     <section id="menu">
         <?php require_once('./modules_php/menu.php'); ?>
     </section>
