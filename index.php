@@ -22,7 +22,7 @@
         <p style="margin-left: 10px;">¡Hola!...<?php echo '<strong style="color:white;">'.$usuario.'</strong>'; ?></p>
         <div id="supraMenu" class="container-fluid p-4"><a href="user_php/entrar.php" id="inSes" class="workMen" style="margin-left: 10px;">Iniciar Sesi&oacuten |</a>
             <a href="#" id="Reg" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal" class="workMen" style="margin-left: 10px;">Registrarse</a>
-            <a href="cerrar_sesion.php" style="margin-left:15px; font-size:10pt;" id="cerSes" class="workMen" style="margin-left: 10px;">Cerrar Sesi&oacuten</a>
+            <a href="cerrar_sesion.php" style="margin-left:15px; font-size:10pt;" id="cerSes" class="btn btn-secondary" style="margin-left: 10px;">Cerrar Sesi&oacuten</a>
         </div>
     </div>
     <?php require_once('./modules_php/banner.php'); ?>
