@@ -1,0 +1,57 @@
+[11-Sep-2019 21:25:00 UTC] PHP Notice:  Undefined index: nombreJoyas in /home/aawe95q6ovw2/public_html/pahtsa.com/joyas/cnJoyas.php on line 8
+[11-Sep-2019 21:25:00 UTC] PHP Notice:  Undefined index: kilatesJoyas in /home/aawe95q6ovw2/public_html/pahtsa.com/joyas/cnJoyas.php on line 9
+[11-Sep-2019 21:25:00 UTC] PHP Notice:  Undefined index: valorInternoJoyas in /home/aawe95q6ovw2/public_html/pahtsa.com/joyas/cnJoyas.php on line 10
+[11-Sep-2019 21:25:00 UTC] PHP Notice:  Undefined index: Imagen in /home/aawe95q6ovw2/public_html/pahtsa.com/joyas/cnJoyas.php on line 11
+[11-Sep-2019 21:25:00 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/aawe95q6ovw2/public_html/pahtsa.com/joyas/cnJoyas.php on line 11
+[11-Sep-2019 21:25:00 UTC] PHP Notice:  Undefined index: pvpJoyas in /home/aawe95q6ovw2/public_html/pahtsa.com/joyas/cnJoyas.php on line 12
+[11-Sep-2019 21:25:00 UTC] PHP Notice:  Undefined index: valorInternoJoyas in /home/aawe95q6ovw2/public_html/pahtsa.com/joyas/cnJoyas.php on line 13
+[11-Sep-2019 21:25:00 UTC] PHP Notice:  Undefined variable: cn in /home/aawe95q6ovw2/public_html/pahtsa.com/joyas/cnJoyas.php on line 15
+[11-Sep-2019 21:25:00 UTC] PHP Notice:  Undefined variable: Imagen in /home/aawe95q6ovw2/public_html/pahtsa.com/joyas/cnJoyas.php on line 16
+[11-Sep-2019 21:25:00 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aawe95q6ovw2/public_html/pahtsa.com/joyas/cnJoyas.php on line 16
+[11-Sep-2019 21:25:00 UTC] PHP Notice:  Undefined variable: cn in /home/aawe95q6ovw2/public_html/pahtsa.com/joyas/cnJoyas.php on line 17
+[11-Sep-2019 21:25:00 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/aawe95q6ovw2/public_html/pahtsa.com/joyas/cnJoyas.php on line 17
+[12-Sep-2019 00:07:20 UTC] PHP Notice:  Undefined index: nombreJoyas in /home/aawe95q6ovw2/public_html/pahtsa.com/joyas/cnJoyas.php on line 8
+[12-Sep-2019 00:07:20 UTC] PHP Notice:  Undefined index: kilatesJoyas in /home/aawe95q6ovw2/public_html/pahtsa.com/joyas/cnJoyas.php on line 9
+[12-Sep-2019 00:07:20 UTC] PHP Notice:  Undefined index: valorInternoJoyas in /home/aawe95q6ovw2/public_html/pahtsa.com/joyas/cnJoyas.php on line 10
+[12-Sep-2019 00:07:20 UTC] PHP Notice:  Undefined index: Imagen in /home/aawe95q6ovw2/public_html/pahtsa.com/joyas/cnJoyas.php on line 11
+[12-Sep-2019 00:07:20 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/aawe95q6ovw2/public_html/pahtsa.com/joyas/cnJoyas.php on line 11
+[12-Sep-2019 00:07:20 UTC] PHP Notice:  Undefined index: pvpJoyas in /home/aawe95q6ovw2/public_html/pahtsa.com/joyas/cnJoyas.php on line 12
+[12-Sep-2019 00:07:20 UTC] PHP Notice:  Undefined index: valorInternoJoyas in /home/aawe95q6ovw2/public_html/pahtsa.com/joyas/cnJoyas.php on line 13
+[12-Sep-2019 00:07:22 UTC] PHP Notice:  Undefined variable: Imagen in /home/aawe95q6ovw2/public_html/pahtsa.com/joyas/cnJoyas.php on line 16
+[12-Sep-2019 00:09:14 UTC] PHP Notice:  Undefined index: nombreJoyas in /home/aawe95q6ovw2/public_html/pahtsa.com/joyas/cnJoyas.php on line 8
+[12-Sep-2019 00:09:14 UTC] PHP Notice:  Undefined index: kilatesJoyas in /home/aawe95q6ovw2/public_html/pahtsa.com/joyas/cnJoyas.php on line 9
+[12-Sep-2019 00:09:14 UTC] PHP Notice:  Undefined index: valorInternoJoyas in /home/aawe95q6ovw2/public_html/pahtsa.com/joyas/cnJoyas.php on line 10
+[12-Sep-2019 00:09:14 UTC] PHP Notice:  Undefined index: Imagen in /home/aawe95q6ovw2/public_html/pahtsa.com/joyas/cnJoyas.php on line 11
+[12-Sep-2019 00:09:14 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/aawe95q6ovw2/public_html/pahtsa.com/joyas/cnJoyas.php on line 11
+[12-Sep-2019 00:09:14 UTC] PHP Notice:  Undefined index: pvpJoyas in /home/aawe95q6ovw2/public_html/pahtsa.com/joyas/cnJoyas.php on line 12
+[12-Sep-2019 00:09:14 UTC] PHP Notice:  Undefined index: valorInternoJoyas in /home/aawe95q6ovw2/public_html/pahtsa.com/joyas/cnJoyas.php on line 13
+[12-Sep-2019 00:09:14 UTC] PHP Notice:  Undefined variable: Imagen in /home/aawe95q6ovw2/public_html/pahtsa.com/joyas/cnJoyas.php on line 16
+[12-Sep-2019 00:14:28 UTC] PHP Notice:  Undefined index: kilates in /home/aawe95q6ovw2/public_html/pahtsa.com/joyas/cnJoyas.php on line 9
+[12-Sep-2019 00:14:28 UTC] PHP Notice:  Undefined index: pJoyas in /home/aawe95q6ovw2/public_html/pahtsa.com/joyas/cnJoyas.php on line 10
+[12-Sep-2019 00:14:28 UTC] PHP Notice:  Undefined index: Imagen in /home/aawe95q6ovw2/public_html/pahtsa.com/joyas/cnJoyas.php on line 11
+[12-Sep-2019 00:14:28 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/aawe95q6ovw2/public_html/pahtsa.com/joyas/cnJoyas.php on line 11
+[12-Sep-2019 00:14:28 UTC] PHP Notice:  Undefined index: pvp in /home/aawe95q6ovw2/public_html/pahtsa.com/joyas/cnJoyas.php on line 12
+[12-Sep-2019 00:14:28 UTC] PHP Notice:  Undefined index: valInJo in /home/aawe95q6ovw2/public_html/pahtsa.com/joyas/cnJoyas.php on line 13
+[12-Sep-2019 00:14:28 UTC] PHP Notice:  Undefined variable: Imagen in /home/aawe95q6ovw2/public_html/pahtsa.com/joyas/cnJoyas.php on line 16
+[12-Sep-2019 00:16:29 UTC] PHP Notice:  Undefined index: kilates in /home/aawe95q6ovw2/public_html/pahtsa.com/joyas/cnJoyas.php on line 9
+[12-Sep-2019 00:16:29 UTC] PHP Notice:  Undefined index: pJoyas in /home/aawe95q6ovw2/public_html/pahtsa.com/joyas/cnJoyas.php on line 10
+[12-Sep-2019 00:16:29 UTC] PHP Notice:  Undefined index: Imagen in /home/aawe95q6ovw2/public_html/pahtsa.com/joyas/cnJoyas.php on line 11
+[12-Sep-2019 00:16:29 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/aawe95q6ovw2/public_html/pahtsa.com/joyas/cnJoyas.php on line 11
+[12-Sep-2019 00:16:29 UTC] PHP Notice:  Undefined index: pvp in /home/aawe95q6ovw2/public_html/pahtsa.com/joyas/cnJoyas.php on line 12
+[12-Sep-2019 00:16:29 UTC] PHP Notice:  Undefined index: valInJo in /home/aawe95q6ovw2/public_html/pahtsa.com/joyas/cnJoyas.php on line 13
+[12-Sep-2019 00:16:29 UTC] PHP Notice:  Undefined variable: Imagen in /home/aawe95q6ovw2/public_html/pahtsa.com/joyas/cnJoyas.php on line 16
+[12-Sep-2019 00:22:08 UTC] PHP Notice:  Undefined index: kilates in /home/aawe95q6ovw2/public_html/pahtsa.com/joyas/cnJoyas.php on line 9
+[12-Sep-2019 00:22:08 UTC] PHP Notice:  Undefined index: pJoyas in /home/aawe95q6ovw2/public_html/pahtsa.com/joyas/cnJoyas.php on line 10
+[12-Sep-2019 00:22:08 UTC] PHP Notice:  Undefined index: Imagen in /home/aawe95q6ovw2/public_html/pahtsa.com/joyas/cnJoyas.php on line 11
+[12-Sep-2019 00:22:08 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/aawe95q6ovw2/public_html/pahtsa.com/joyas/cnJoyas.php on line 11
+[12-Sep-2019 00:22:08 UTC] PHP Notice:  Undefined index: pvp in /home/aawe95q6ovw2/public_html/pahtsa.com/joyas/cnJoyas.php on line 12
+[12-Sep-2019 00:22:08 UTC] PHP Notice:  Undefined index: valInJo in /home/aawe95q6ovw2/public_html/pahtsa.com/joyas/cnJoyas.php on line 13
+[12-Sep-2019 00:22:40 UTC] PHP Notice:  Undefined index: Imagen in /home/aawe95q6ovw2/public_html/pahtsa.com/joyas/cnJoyas.php on line 11
+[12-Sep-2019 00:22:40 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/aawe95q6ovw2/public_html/pahtsa.com/joyas/cnJoyas.php on line 11
+[12-Sep-2019 00:33:21 UTC] PHP Notice:  Undefined index: imagen	 in /home/aawe95q6ovw2/public_html/pahtsa.com/joyas/joyas.php on line 65
+[12-Sep-2019 00:33:21 UTC] PHP Notice:  Undefined index: id in /home/aawe95q6ovw2/public_html/pahtsa.com/joyas/joyas.php on line 74
+[12-Sep-2019 00:33:21 UTC] PHP Notice:  Undefined index: id in /home/aawe95q6ovw2/public_html/pahtsa.com/joyas/joyas.php on line 75
+[12-Sep-2019 00:38:54 UTC] PHP Notice:  Undefined index: id in /home/aawe95q6ovw2/public_html/pahtsa.com/joyas/joyas.php on line 74
+[12-Sep-2019 00:38:54 UTC] PHP Notice:  Undefined index: id in /home/aawe95q6ovw2/public_html/pahtsa.com/joyas/joyas.php on line 75
+[12-Sep-2019 00:39:34 UTC] PHP Notice:  Undefined index: id in /home/aawe95q6ovw2/public_html/pahtsa.com/joyas/joyas.php on line 74
+[12-Sep-2019 00:39:34 UTC] PHP Notice:  Undefined index: id in /home/aawe95q6ovw2/public_html/pahtsa.com/joyas/joyas.php on line 75

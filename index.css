@@ -1,0 +1,93 @@
+*{
+    font-family: 'Rubik', sans-serif;
+    box-sizing: border-box;
+    margin: 0;
+}
+
+#header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: auto;
+}
+
+#products{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.card{
+    transition: ease all 0.3s;
+    margin-top: 15px;
+}
+
+.card:hover{
+    transition: ease all 0.3s;
+    border: solid 0.5px white;
+    box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.5);
+    border-radius: 5px;
+}
+
+/*PRODUCTOS*/
+note{
+    font-size: 8pt;
+    color: gray;
+}
+strong{
+    font-size: 20pt;
+    color: #444444;
+}
+
+#list_g{
+ display: flex;
+ justify-content: space-evenly;
+align-items: center;
+    
+}
+
+.b{
+    width: 130px;
+    text-align: center;
+}
+/*BODY*/
+#body{
+    padding: 15px;
+    background-image: url('img/3dprinter.png');
+    background-size: 100% auto;
+    background-position: 0px -200px ;
+    height: 400px;
+     display: flex;
+align-items: center;
+}
+
+.parrafo{
+    width: 300px;
+    height:auto;
+    padding: 10px;
+    background: rgba(10,11,15,0.8);
+    color: white;
+}
+
+.h3{
+    font-size: 20pt;
+    color: steelblue;
+}
+
+#informacionProductos{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+#formulario{
+    width: 300px;
+    height: auto;
+    padding: 25px;
+}
+
+#footer{
+    
+    background-color: steelblue;
+}

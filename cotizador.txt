@@ -1,0 +1,46 @@
+ <!--
+    <div id="cotizador">
+        <div id="sectionCountA">
+        <div id="title">
+            <h3>COTIZADOR</h3>
+            <h6>Ingresar Datos Obtenido por Slice - CURA</h6>
+        </div>
+        <div id="consolaA">
+        <form action="envio.php"></form>
+        <div id="forNameProduct" class="divLab">
+        <label for="nameProduct"><h4>Ingrese el nombre de su producto:</h4></label>
+        <input type="text" id="nameProduct" name="nameProduct" class="inputs">
+        </div>
+        <div id="forValorFilamento" class="divLab">
+        <label for="valorFilamento"><h4>Valor P.B.I. Filamento: 1KG/1000g</h4></label>
+        <input type="number" id="valorFilamento" name="valorFilamento" class="inputs">
+        </div>
+        <div id="forValorGramo" class="divLab">
+        <label for="valorGramo"><h4>Peso del Producto Impreso /g</h4> <h6>Valor Obtenido por CURA</h6></label>
+        <input type="number" id="valorGramo" name="valorGramo" class="inputs">
+        </div>
+        </div>
+        <div id="consolaB">
+        <input type="button" value="Calcular" class="btn btn-primary">
+        <input type="button" value="Imprimir" class="btn btn-secondary">
+        <input type="Submit" value="Guardar" class="btn btn-secondary">
+        </div>
+        </form>
+        </div>
+        <div id="sectionCountB">
+            <div id="resultA" class="result">
+               <p id="valorPrecio">0</p> 
+               <p id="precio">PRECIO</p>
+            </div>
+            <div id="resultB" class="result">
+                    0
+            </div>
+        </div>
+    </div>
+        <script type="text/javascript">
+            let sectionCountA = document.getElementById('sectionCountA');
+            let sectionCountB = document.getElementById('sectionCountB');
+            let valorPrecio = document.getElementById('sectionCountB');
+            //formula
+            let kg_1 = Number(1000);
+        </script>-->
