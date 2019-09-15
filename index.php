@@ -19,7 +19,7 @@
 </head>
 <body>
     <div class="container-fluid p-3" id="menUp">
-        <?php echo '¡Hola! '.' '.'<strong style="color:white;">'.$usuario.'</strong>'; ?>
+        <p style="margin-left: 10px;"><?php echo '¡Hola! '.' '.'<strong style="color:white;">'.$usuario.'</strong>'; ?></p>
         <div id="supraMenu" class="container-fluid p-4"><a href="user_php/entrar.php" id="inSes" class="workMen" style="margin-left: 10px;">Iniciar Sesi&oacuten |</a>
             <a href="#" id="Reg" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal" class="workMen" style="margin-left: 10px;">Registrarse</a>
             <a href="cerrar_sesion.php" style="margin-left:15px; font-size:10pt;" id="cerSes" class="workMen" style="margin-left: 10px;">Cerrar Sesi&oacuten</a>
