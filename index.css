@@ -102,3 +102,8 @@ align-items: center;
 .workMen{
     color: whitesmoke;
 }
+
+.carousel-caption{
+    padding: 10px;
+    background-color: #4444449c;
+}
