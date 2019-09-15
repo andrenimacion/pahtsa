@@ -95,5 +95,10 @@ align-items: center;
 #menUp{
     display: flex;
     justify-content: flex-start;
-    
+    align-items: center;
+    background-color: #3691CE;
+    color: whitesmoke;
+}
+.workMen{
+    color: whitesmoke;
 }
