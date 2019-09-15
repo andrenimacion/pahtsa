@@ -14,7 +14,8 @@
     <title>PAHTSA</title>
     <link rel="stylesheet" href="index.css">
     <link href="https://fonts.googleapis.com/css?family=Rubik&display=swap" rel="stylesheet">
-   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <script src="node_modules/lib/anime.min.js"></script>
 </head>
 <body>
     <div class="container-fluid p-3" id="menUp">
@@ -36,7 +37,6 @@
     <section class="container mt-4" id="products">
         <?php require_once('product.php'); ?>
     </section>
-    
         <?php  require_once('./modules_php/footer.php'); ?>
     <script src="js/supMenu.js">
    
