@@ -7,7 +7,7 @@
     </ol>
     <div class="carousel-inner">
       <div class="carousel-item active">
-        <img src="./img/tienda1" class="d-block w-100" alt="...">
+        <img src="./img/tienda1.jpg" class="d-block w-100" alt="...">
         <div class="carousel-caption d-none d-md-block">
           <h5>¡Abre tu tienda con nosotros!</h5>
           <p>Tu tienda y productos siempre disponibles.</p>
