@@ -15,7 +15,7 @@
         #bodyes{
             display: flex;
             align-items: center;
-            background-image: url('../img/10325.jpg');
+            background-image: url('../img/tienda2.jpg');
             background-size: 110% 110%;
             width: 100%;
             height: 100%;
