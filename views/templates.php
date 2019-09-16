@@ -1,3 +1,3 @@
-<?
-    echo "PROBANDO LOS TEMPLATES MVC";
-?>
+<script>
+    alert('gracias por ingresar')
+</script>
