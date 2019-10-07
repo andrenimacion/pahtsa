@@ -9,15 +9,15 @@
       <div class="carousel-item active">
         <img src="./img/tienda1.jpg" class="d-block w-100" alt="...">
         <div class="carousel-caption d-none d-md-block">
-          <h5>¡Abre tu tienda con nosotros!</h5>
-          <p>Tu tienda y productos siempre disponibles.</p>
+          <h5>¡Estamo trabajando para pfrecerte el mejor servicio!</h5>
+          <p>Muy pronto nuevas opciones que personalizarán nuestro servicio serán habilitadas.</p>
         </div>
       </div>
       <div class="carousel-item">
-        <img src="./img/compradoras.jpg" class="d-block w-100" alt="...">
+        <img src="./img/3dprint.jpg" class="d-block w-100" alt="...">
         <div class="carousel-caption d-none d-md-block">
-          <h5>Tus productos</h5>
-          <p>Todos los productos a nivel nacional al alcance de tu mano.</p>
+          <h5>Servicio de Impresión 3D</h5>
+          <p>Imprime tus diseños y proyectos en nuestra granja 3D.</p>
         </div>
       </div>
       <div class="carousel-item">
